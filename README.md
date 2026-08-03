@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>🤖 Omni Agent Framework</h1>
+  <h1>🤖 Agent Framework</h1>
   <p><b>Advanced, Modular & Framework-Agnostic AI System Prompts.</b></p>
-  <p><i>Hệ thống Prompt chuyên gia, đa mô-đun dành cho các AI IDE.</i></p>
+  <p><i>Hệ thống Prompt chuyên gia, đa module dành cho các AI IDE.</i></p>
   
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   ![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
